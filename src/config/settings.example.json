@@ -1,0 +1,9 @@
+{
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) SephoraAdvancedScraper/1.0",
+  "timeout": 20,
+  "concurrent_requests": 4,
+  "export": {
+    "formats": ["json", "csv", "html"],
+    "output_path": "data/sample_output.json"
+  }
+}
