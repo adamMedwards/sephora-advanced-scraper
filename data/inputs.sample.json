@@ -1,0 +1,9 @@
+{
+  "product_urls": [
+    "https://www.sephora.com/product/peptide-moisturizer-P455369"
+  ],
+  "category_urls": [],
+  "include_similar_products": false,
+  "max_reviews": 25,
+  "max_questions": 10
+}
