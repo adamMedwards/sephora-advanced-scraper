@@ -1,0 +1,52 @@
+[
+  {
+    "info": {
+      "id": "P455369",
+      "name": "Peptide Moisturizer",
+      "image": "https://www.sephora.com/productimages/sku/s2335610-main-zoom.jpg",
+      "description": "What it is: A nourishing-yet-fast-absorbing daily moisturizer that helps support skin barrier function and improve the look of fine lines.",
+      "is_available": true,
+      "brand": "The INKEY List",
+      "price": "$15.99",
+      "love_count": 73400,
+      "url": "https://www.sephora.com/product/peptide-moisturizer-P455369"
+    },
+    "product_variants": [
+      {
+        "variant_id": "P464820",
+        "variant_description": "A nurturing yet fast-absorbing daily moisturizer with a peptide duo that helps support skin barrier function.",
+        "is_variant_available": true,
+        "variant_name": "Peptide Moisturizer",
+        "variant_image": "https://www.sephora.com/productimages/sku/s2404507-main-zoom.jpg"
+      }
+    ],
+    "statistics": {
+      "average_rating": 3.77,
+      "helpful_vote_count": 4232,
+      "not_helpful_vote_count": 1075,
+      "review_count": 835,
+      "variant_count": 1
+    },
+    "reviews": [
+      {
+        "rating": 3,
+        "review_text": "I’m being generous with giving this 3 stars. I wanted to love this but it broke me out and left my skin feeling greasy.",
+        "review_title": "A no from me",
+        "is_recommended": false,
+        "submitted_at": "2023-07-23T22:40:31",
+        "helpful_vote_count": 0,
+        "not_helpful_vote_count": 0
+      }
+    ],
+    "questions": [
+      {
+        "product_id": "P455369",
+        "question": "Is the phenoxyethanol in the ingredients list safe?",
+        "submitted_at": "2023-06-15T00:00:00",
+        "answers": [],
+        "helpful_vote_count": 0,
+        "not_helpful_vote_count": 0
+      }
+    ]
+  }
+]
